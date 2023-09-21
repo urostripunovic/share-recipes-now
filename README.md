@@ -1,2 +1,1 @@
-# share-recipes-now
- 
+# Recipes sharing app
